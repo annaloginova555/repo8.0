@@ -1,0 +1,15 @@
+C:\Users\user 1\Desktop\projects\repo8\exa\dz8z2\bin\MCD\Debug\net6.0\dz8z2.exe
+C:\Users\user 1\Desktop\projects\repo8\exa\dz8z2\bin\MCD\Debug\net6.0\dz8z2.deps.json
+C:\Users\user 1\Desktop\projects\repo8\exa\dz8z2\bin\MCD\Debug\net6.0\dz8z2.runtimeconfig.json
+C:\Users\user 1\Desktop\projects\repo8\exa\dz8z2\bin\MCD\Debug\net6.0\dz8z2.dll
+C:\Users\user 1\Desktop\projects\repo8\exa\dz8z2\bin\MCD\Debug\net6.0\dz8z2.pdb
+C:\Users\user 1\Desktop\projects\repo8\exa\dz8z2\obj\MCD\Debug\net6.0\dz8z2.csproj.AssemblyReference.cache
+C:\Users\user 1\Desktop\projects\repo8\exa\dz8z2\obj\MCD\Debug\net6.0\dz8z2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user 1\Desktop\projects\repo8\exa\dz8z2\obj\MCD\Debug\net6.0\dz8z2.AssemblyInfoInputs.cache
+C:\Users\user 1\Desktop\projects\repo8\exa\dz8z2\obj\MCD\Debug\net6.0\dz8z2.AssemblyInfo.cs
+C:\Users\user 1\Desktop\projects\repo8\exa\dz8z2\obj\MCD\Debug\net6.0\dz8z2.csproj.CoreCompileInputs.cache
+C:\Users\user 1\Desktop\projects\repo8\exa\dz8z2\obj\MCD\Debug\net6.0\dz8z2.dll
+C:\Users\user 1\Desktop\projects\repo8\exa\dz8z2\obj\MCD\Debug\net6.0\refint\dz8z2.dll
+C:\Users\user 1\Desktop\projects\repo8\exa\dz8z2\obj\MCD\Debug\net6.0\dz8z2.pdb
+C:\Users\user 1\Desktop\projects\repo8\exa\dz8z2\obj\MCD\Debug\net6.0\dz8z2.genruntimeconfig.cache
+C:\Users\user 1\Desktop\projects\repo8\exa\dz8z2\obj\MCD\Debug\net6.0\ref\dz8z2.dll
